@@ -1,5 +1,5 @@
 task main {
     doLast {
-        println 'Running checkout core v0.1.1'
+        println 'Running checkout core v0.1.2'
     }
 }

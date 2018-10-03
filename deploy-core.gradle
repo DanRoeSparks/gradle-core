@@ -1,5 +1,5 @@
 task main {
     doLast {
-        println 'Running deploy core v0.1.1'
+        println 'Running deploy core v0.1.2'
     }
 }
